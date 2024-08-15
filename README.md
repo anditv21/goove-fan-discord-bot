@@ -1,6 +1,6 @@
-# Goove Bot
+# Govee Bot
 
-Goove Bot is a Discord bot designed to control Govee devices, specifically for managing a fan. With this bot, you can send commands to your fan to turn it on or off, adjust the speed and control oscillation.
+Govee Bot is a Discord bot designed to control Govee devices, specifically for managing a fan. With this bot, you can send commands to your fan to turn it on or off, adjust the speed and control oscillation.
 
 ## Prerequisites
 
